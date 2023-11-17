@@ -1,20 +1,15 @@
-# 2020 금융 빅데이터 페스티발
+# 2020 Financial Big Data Festival
 
-## 주식거래내역으로 매수 상위종목 예측 부문
+## Prediction of stock top picks based on transaction data
 
-##### - 팀 이름 : 데이터를좀아는개미들 (이경환, 변영목, 양명한)
+##### - Team members: Youngmok Byon, Kyunghwan Lee, Myeonghan Yang
 
-##### - 진행 방식: 예선(8/28~10/4  | 공개 리더보드 상 5위) => 본선(~10/30 | 상위 7팀 안에 포함) => 결선(11/26 진행 예정 | 상위 3팀 안에 포함)
-
-##### - 주요 사용 패키지
+##### - Packages Used
 
 - lightgbm
 - numpy
 - pandas
 - scikit-learn
 
-
-
-<img src="./image/개요.PNG">
-
-<img src="./image/분석.PNG">
+![image](https://github.com/byonym/MA_Competition/assets/63856276/ddfdcca8-30f2-4b90-bd70-1401377e1307)
+![image](https://github.com/byonym/MA_Competition/assets/63856276/0391672d-d5f7-4839-9d69-6899b1fe0de7)

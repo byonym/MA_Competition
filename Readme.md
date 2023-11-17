@@ -7,6 +7,7 @@
 ##### - Packages Used
 
 - lightgbm
+- randomforest
 - numpy
 - pandas
 - scikit-learn
